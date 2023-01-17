@@ -1,0 +1,41 @@
+trigger:
+  branches:
+    include:
+    - refs/heads/develop
+  paths:
+    include:
+    - /
+  batch: True
+name: $(date:yyyyMMdd)$(rev:.r)
+resources:
+  repositories:
+  - repository: self
+    type: git
+    ref: refs/heads/develop
+jobs:
+- job: Phase_1
+  displayName: Agent job 1
+  timeoutInMinutes: 0
+  pool:
+    vmImage: ubuntu-20.04
+  steps:
+  - checkout: self
+    clean: true
+  - task: Docker@1
+    displayName: Build an image
+    inputs:
+      azureSubscriptionEndpoint: d52c2398-ecd0-4977-8bc6-4c747fc8ca30
+      azureContainerRegistry: avivdev.azurecr.io
+      dockerFile: src/AVIV/Dockerfile
+      imageName: avivdev.azurecr.io/aviv-api:$(Build.BuildId)
+      useDefaultContext: false
+  - task: Docker@1
+    displayName: Push an image
+    inputs:
+      azureSubscriptionEndpoint: 43ed7201-bc3f-4c96-8b40-2c0b1699bb85
+      azureContainerRegistry: avivdev.azurecr.io
+      command: Push an image
+      dockerFile: ''
+      imageName: avivdev.azurecr.io/aviv-api:$(Build.BuildId)
+      includeSourceTags: true
+...

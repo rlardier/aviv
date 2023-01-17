@@ -1,0 +1,14 @@
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\AVIV.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\AVIV.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\AVIV.SharedKernel.AssemblyInfo.cs
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\AVIV.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\bin\Debug\net6.0\AVIV.SharedKernel.deps.json
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\bin\Debug\net6.0\AVIV.SharedKernel.runtimeconfig.json
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\bin\Debug\net6.0\AVIV.SharedKernel.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\bin\Debug\net6.0\ref\AVIV.SharedKernel.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\bin\Debug\net6.0\AVIV.SharedKernel.pdb
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\AVIV.SharedKernel.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\ref\AVIV.SharedKernel.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\AVIV.SharedKernel.pdb
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\AVIV.SharedKernel.genruntimeconfig.cache
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.SharedKernel\obj\Debug\net6.0\AVIV.SharedKernel.csproj.AssemblyReference.cache

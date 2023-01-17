@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e173922e-657c-4c86-96bc-d6ed21c341d3": {
+      "ProjectGuid": "e173922e-657c-4c86-96bc-d6ed21c341d3",
+      "DisplayName": "AVIV",
+      "ColorIndex": 0
+    },
+    "31536eee-9efb-492f-a86b-71fcad28dcc3": {
+      "ProjectGuid": "31536eee-9efb-492f-a86b-71fcad28dcc3",
+      "DisplayName": "AVIV.Core",
+      "ColorIndex": 1
+    },
+    "97bfeda5-fcde-46ab-b7f9-b1b8a60815ac": {
+      "ProjectGuid": "97bfeda5-fcde-46ab-b7f9-b1b8a60815ac",
+      "DisplayName": "AVIV.Domain",
+      "ColorIndex": 2
+    },
+    "6426e69c-bacf-4093-91b2-c1d25ce299cb": {
+      "ProjectGuid": "6426e69c-bacf-4093-91b2-c1d25ce299cb",
+      "DisplayName": "AVIV.Infrastructure",
+      "ColorIndex": 3
+    },
+    "50895f93-4ae4-4894-85ba-8bfed0bef5ee": {
+      "ProjectGuid": "50895f93-4ae4-4894-85ba-8bfed0bef5ee",
+      "DisplayName": "AVIV.SharedKernel",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

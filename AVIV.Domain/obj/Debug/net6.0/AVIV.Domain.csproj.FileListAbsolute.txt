@@ -1,0 +1,15 @@
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\bin\Debug\net6.0\AVIV.Domain.deps.json
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\bin\Debug\net6.0\AVIV.Domain.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\bin\Debug\net6.0\ref\AVIV.Domain.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\bin\Debug\net6.0\AVIV.Domain.pdb
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\AVIV.Domain.csproj.AssemblyReference.cache
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\AVIV.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\AVIV.Domain.AssemblyInfoInputs.cache
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\AVIV.Domain.AssemblyInfo.cs
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\AVIV.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\AVIV.Domain.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\ref\AVIV.Domain.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\AVIV.Domain.pdb
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\bin\Debug\net6.0\AVIV.SharedKernel.dll
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\bin\Debug\net6.0\AVIV.SharedKernel.pdb
+C:\Users\RémiLARDIER\source\repos\aviv\AVIV\AVIV.Domain\obj\Debug\net6.0\AVIV.Domain.csproj.CopyComplete
